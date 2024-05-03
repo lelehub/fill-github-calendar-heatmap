@@ -1,1 +1,1 @@
-050200002024 https://github.com/lelehub/fill-github-calendar-heatmap
+050300002024 https://github.com/lelehub/fill-github-calendar-heatmap
